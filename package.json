@@ -2,18 +2,32 @@
     "title": "Quick Light",
     "name": "quick-light",
     "description": "A light theme that makes your code pretty and readable.",
-    "version": "1.0.1",
-    "author": "Increment Web Services",
+    "keywords": ["light", "theme", "quick"],
     "homepage": "https://github.com/cheesypoof/QuickLight",
+    "license": "MIT",
+
     "repository": {
         "type": "git",
-        "url": "git://github.com/cheesypoof/QuickLight.git"
+        "url": "https://github.com/cheesypoof/QuickLight.git"
     },
-    "engines": {
-        "brackets": ">=0.42.0"
+
+    "bugs": {
+        "url": "https://github.com/cheesypoof/QuickLight/issues"
     },
+
+    "author": {
+        "name": "Increment Web Services",
+        "url": "https://github.com/cheesypoof"
+    },
+
     "theme": {
         "file": "main.less",
         "dark": false
-    }
+    },
+
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+
+    "version": "1.0.1"
 }
