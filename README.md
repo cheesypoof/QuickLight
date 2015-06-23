@@ -12,4 +12,4 @@ A light theme for [Brackets](http://brackets.io/) that makes your code pretty an
 ![JavaScript Screenshot](screenshots/javascript.png)
 
 ## Copyright and License
-Copyright (c) 2014 [Increment Web Services](https://incrementwebservices.com/). Released under the [MIT License](LICENSE).
+Copyright (c) 2014. Released under the [MIT License](LICENSE).
